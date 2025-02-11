@@ -47,7 +47,7 @@ function generateMessage(noCount) {
     "don't do this to me :(",
     "you're breaking my heart </3",
     "i'm gonna cry ;-;",
-    "you have no choice, so just click yes ;p"
+    "you have no choice, so just click yes :]"
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
