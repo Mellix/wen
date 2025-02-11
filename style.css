@@ -10,13 +10,7 @@ html {
 
 body {
   background-color: #fff0f6;
-  font-family: "Protest Riot", sans-serif;
-}
-
-.btn--yes, .btn--no {
-  font-family: "Modak", serif; /* Change to your desired font */
-  font-size: 16px; /* Optional: Adjust font size */
-  font-weight: 400; /* Optional: Adjust font weight */
+  font-family: "Modak", serif;
 }
 
 .container {
@@ -69,6 +63,12 @@ body {
 
 .btn--no {
   background-color: #f03e3e;
+}
+
+.btn--yes, .btn--no {
+  font-family: "Modak", serif; /* Change to your desired font */
+  font-size: 16px; /* Optional: Adjust font size */
+  font-weight: 400; /* Optional: Adjust font weight */
 }
 
 .hidden {
