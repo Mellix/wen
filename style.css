@@ -51,8 +51,9 @@ body {
   border-radius: 4px;
 
   color: white;
-  font-size: 1.6rem;
-  font-weight: 600;
+  font-family: "Modak", serif;
+  font-size: 16px;
+  font-weight: 100;
   cursor: pointer;
   display: inline-block;
 }
@@ -63,12 +64,6 @@ body {
 
 .btn--no {
   background-color: #f03e3e;
-}
-
-.btn--yes, .btn--no {
-  font-family: "Modak", serif; /* Change to your desired font */
-  font-size: 16px; /* Optional: Adjust font size */
-  font-weight: 400; /* Optional: Adjust font weight */
 }
 
 .hidden {
