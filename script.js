@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "YIPPEEEE :D <br> YOU? ME? TMR AFTER WORK? <br> LUNCH AND MOVIE DATE?";
+  titleElement.innerHTML = "YIPPEEEE :D <br> YOU? ME? FEB 14TH? AFTER WORK? <br> LUNCH AND MOVIE DATE?";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
